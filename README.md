@@ -3,7 +3,6 @@
 🚀 Aspiring AI/Data Scientist | Machine Learning Enthusiast | IoT Innovator
 I am a passionate and driven Data Scientist with a strong foundation in AI, Machine Learning, and Neural Networks. My journey in the tech world has been fueled by curiosity and the desire to solve complex problems with data-driven solutions. Currently, I am pursuing my Master's degree, focusing on sharpening my skills in these cutting-edge technologies.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x-lele-x" alt="x-lele-x" /></a> </p>
 
 🧠 My Expertise
 Artificial Intelligence & Machine Learning: I am currently gaining experience in developing and implementing machine learning models, from data preprocessing to model deployment. My projects include anomaly detection systems, predictive models, and deep learning neural networks. My most important AI project is the development of a chatbot using the RAG method.
