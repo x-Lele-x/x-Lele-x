@@ -6,7 +6,7 @@
 
 <h2>🧠 My Expertise</h2>
 <ul>
-<li>Artificial Intelligence & Machine Learning: I am currently gaining experience in developing and implementing machine learning models, from data preprocessing to model deployment. My projects include anomaly detection systems, predictive models, and deep learning neural networks. My most important AI project is the development of a chatbot using the RAG method.</li>
+<li><strong>Artificial Intelligence & Machine Learning:</strong> I am currently gaining experience in developing and implementing machine learning models, from data preprocessing to model deployment. My projects include anomaly detection systems, predictive models, and deep learning neural networks. My most important AI project is the development of a chatbot using the RAG method.</li>
 
 <li><strong>Data Science:</strong> From data analysis to visualization, I thrive on extracting meaningful insights from complex datasets. My expertise spans across Python and various ML libraries such as TensorFlow, Pandas and Scikit-learn.</li>
 
