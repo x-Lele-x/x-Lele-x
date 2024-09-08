@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eleonora Giuffrida</h1>
 <h3 align="center">A passionate Dev from Italy!</h3>
-<h3 align="center">🚀 Aspiring AI/Data Scientist | Machine Learning Enthusiast | IoT Developer | Front-end Developer</h3>
-<p align="center">I am a passionate and driven Data Scientist with a strong foundation in AI, Machine Learning, and Neural Networks. My journey in the tech world has been fueled by curiosity and the desire to solve complex problems with data-driven solutions. Currently, I am pursuing my Master's degree, focusing on sharpening my skills in these cutting-edge technologies.</p>
+<h3 align="center">🚀 Aspiring AI/Data Scientist | Machine Learning Enthusiast | Front-end Developer | IoT Developer </h3>
+<p align="center">I am a passionate aspiring Data Scientist that is currently setting strong foundation in AI, Machine Learning, and Neural Networks. My journey in the tech world has been fueled by curiosity and the desire to solve complex problems with data-driven solutions. At the moment, I am pursuing my Master's degree, focusing on sharpening my skills in these cutting-edge technologies.</p>
 
 
 <h2>🧠 My Expertise</h2>
@@ -10,9 +10,11 @@
 
 <li><strong>Data Science:</strong> From data analysis to visualization, I thrive on extracting meaningful insights from complex datasets. My expertise spans across Python and various ML libraries such as TensorFlow, Pandas and Scikit-learn.</li>
 
+<li><strong>Front-End Development:</strong> I enjoy creating intuitive and user-friendly interfaces, with experience in HTML, CSS, and JavaScript. Also, I'm now improving my skills by working on some projects and learning new frameworks such as React and Angular.</li>
+
 <li><strong>IoT Projects:</strong> Combining the power of IoT with machine learning, I've worked on innovative projects that bridge the gap between data collection and intelligent decision-making.</li>
 
-<li><strong>Front-End Development:</strong> I enjoy creating intuitive and user-friendly interfaces, with experience in HTML, CSS, and JavaScript.</li>
+
 </ul>
 
 
@@ -35,6 +37,7 @@
 <ul>
   <li>Advanced Neural Networks and Deep Learning</li>
   <li>Advanced Data Visualization techniques</li>
+  <li>Front-End development</li>
 </ul>
 
 
