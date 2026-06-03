@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eleonora Giuffrida</h1>
 <h3 align="center">A passionate Dev from Italy!</h3>
-<h3 align="center">🚀 Aspiring AI/Data Scientist | Machine Learning Enthusiast | Front-end Developer | IoT Developer </h3>
+<h3 align="center">🚀 AI/Data Scientist | Machine Learning Enthusiast | Front-end Developer | IoT Developer </h3>
 <p align="center">I am a passionate aspiring Data Scientist that is currently setting strong foundation in AI, Machine Learning, and Neural Networks. My journey in the tech world has been fueled by curiosity and the desire to solve complex problems with data-driven solutions. At the moment, I am pursuing my Master's degree, focusing on sharpening my skills in these cutting-edge technologies.</p>
 
 
